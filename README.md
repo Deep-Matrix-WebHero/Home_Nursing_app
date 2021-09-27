@@ -1,4 +1,4 @@
-# project nanme : jabari Home Nursing Service
+# Jroject Nanme : Jabari Home Nursing Service
 
 #Hospitality is our core value Time
 # Make-a-super-specialty-Home Nusing Service

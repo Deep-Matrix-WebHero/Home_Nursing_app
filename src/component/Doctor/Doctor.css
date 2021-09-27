@@ -1,0 +1,27 @@
+
+.img-doctor{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    border: 2px solid rgb(245, 151, 73);
+}
+.doctor-card{
+    border: 2px solid lightpink;
+    width: 300px;
+    background-color: rgba(121, 224, 195, 0.884);
+    margin: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+    
+}
+.btn-doctor{
+    background-color: mediumaquamarine;
+    padding: 2px;
+    font-weight: 600;
+    border-radius: 5px;
+    color: rgb(238, 68, 68);
+  
+
+    
+}
